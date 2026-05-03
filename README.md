@@ -1,6 +1,6 @@
 # Daniel Ortega Aparicio
 
-**Staff Site Reliability Engineer** | CloudBees
+**Staff Site Reliability Engineer**
 
 I design, build, and operate large-scale distributed systems. 15+ years in infrastructure engineering, from C++ R&D to multi-region Kubernetes platforms.
 
